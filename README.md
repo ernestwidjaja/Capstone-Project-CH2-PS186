@@ -14,6 +14,24 @@ Our team came up with this project based on the statistics that we found about c
 
 # Documentation
 ## Machine Learning
+  Machine Learning :
+We have completed the research data and data collection phase on image classification for cats and dogs, pet products and recommendation algorithm about how to take care your own pets, we still doing preprocessing data, cleaning data, exploration data, data augmentation model with cnn algorithm for classification, evaluating data model, the progress that havent done is deployment implementation app fixing bug, fixing accuracy, fixing code
+
+Data Collection, Exploration, and Cleaning
+Searching resources from kaggle and making our own dataset
+Dataset exploration
+Cleaning dataset 
+Data Augmentation and CNN Model for Image Classification
+Data augmentation for pet images, data caring pet, and pet product 
+CNN model to image classification
+recommendation system for step caring pet and pet product
+Evaluate Data Model and Testing
+evaluate the data model and testing output of the data
+Under/Overfitting Data Testing and Deployment
+Strengthen the accuracy of the output of the model being developed
+Evaluate Monitoring Model in Mobile App
+Evaluating and testing performance, accuracy, and effectiveness of the model in detecting and responding to relevant events or patterns.
+
 
 ## Mobile Development
 ### Requirements
