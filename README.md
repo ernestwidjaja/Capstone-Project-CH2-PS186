@@ -32,6 +32,10 @@ Strengthen the accuracy of the output of the model being developed
 Evaluate Monitoring Model in Mobile App
 Evaluating and testing performance, accuracy, and effectiveness of the model in detecting and responding to relevant events or patterns.
 
+## Video demo machine learning in gdrive
+https://drive.google.com/file/d/1q1RwAyjdT_SCotQK105FBIjcoM6iAuIA/view?usp=sharing
+## saved machine learning model in gdrive
+https://drive.google.com/file/d/1fQ1gPMgRDDGBju7OED2x22GQfbqdjNZ5/view?usp=sharing
 
 ## Mobile Development
 Developed using Kotlin with Android Jetpack Compose in Android Studio.
