@@ -34,6 +34,7 @@ Evaluating and testing performance, accuracy, and effectiveness of the model in 
 
 
 ## Mobile Development
+Developed using Kotlin with Android Jetpack Compose in Android Studio.
 ### Requirements
 1. Android 7.0 Marshmallow & (SDK24) or above
 2. Internet Connection
