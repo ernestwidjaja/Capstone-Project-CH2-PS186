@@ -12,7 +12,7 @@ Based on the research and data we found,  we chose to develop an application tha
 ## Reason
 Our team came up with this project based on the statistics that we found about cat and dog ownership and the cause of death due to disease. According to TGM Research, cat and dog ownership has significantly increased over the past decades. In Indonesia, 71% of people own pets, most of which are cats (75%) and dogs (14%). Based on the statistical data from PetMeds, we found out that the main death causes are by disease. Diseases can occur due to poor or unmaintained pet health. Pets with poor nutrition and diseases are more likely to experience symptoms that lead to death.
 
-## Documentation
+# Documentation
 ## Machine Learning
 
 ## Mobile Development
@@ -21,7 +21,8 @@ Our team came up with this project based on the statistics that we found about c
 2. Internet Connection
 
 ## Installation
- Download APK [here](https://drive.google.com/file/d/1VVmY0R6bFR7ucHZsb2mLzfG492Y2C0bb/view?usp=sharing)
+Download APK [here](https://drive.google.com/file/d/1VVmY0R6bFR7ucHZsb2mLzfG492Y2C0bb/view?usp=sharing)
+
 ## Cloud Computing
 
 
